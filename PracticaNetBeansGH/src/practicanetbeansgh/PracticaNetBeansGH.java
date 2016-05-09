@@ -15,7 +15,8 @@ public class PracticaNetBeansGH {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Alumno aaron = new Alumno();
+        Profesor Jose = new Profesor();
     }
     
 }
